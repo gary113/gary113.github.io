@@ -65,6 +65,4 @@
       helloSpeaker.speak(names[i]);
     }
   }
-
-
 })();
